@@ -1,7 +1,9 @@
-# Java
-								Java Projects 🤷‍♂️ 
 
-							Read README before Pull or Forks
+<p align="center">
+<h1>Java</h1>
+Java Projects 🤷‍♂️ 
+Read README before Pull or Forks
+</p>
 
 All the projects in this rep are Java projects only. Do not send Pulls for any other projects. 
 
