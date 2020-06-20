@@ -1,9 +1,11 @@
 
 <p align="center">
 <h1>Java</h1>
+
 Java Projects 🤷‍♂️ 
-Read README before Pull or Forks
-</p>
+Read README before Pull or Forks</p>
+
+
 
 All the projects in this rep are Java projects only. Do not send Pulls for any other projects. 
 
@@ -13,8 +15,7 @@ Files are scattered within different directories. Search for whatever you want i
 
 JDBC project requires Connector/J too. Make sure you placed it in your local dir or download from MySQL site.
 
- DO NOT spam me with patches.
- Create a Pull request and I'll go through them.
+ DO NOT spam me with patches. Create a Pull request and I'll go through them.
  
  Pull requests will be accepted only after evaluation.
  
