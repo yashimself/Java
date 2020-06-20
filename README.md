@@ -3,7 +3,7 @@
 Java Projects 🤷‍♂️ 
 Read README before Pull or Forks
 </p>
-
+<ul>
 All the projects in this rep are Java projects only. Do not send Pulls for any other projects. 
 
 These were created in eclipse. If you have encouter any problem, try compiling using eclipse IDE before creating an Issue on this repo.
@@ -17,3 +17,4 @@ JDBC project requires Connector/J too. Make sure you placed it in your local dir
  Pull requests will be accepted only after evaluation.
  
  There is a contact link besides rep title. Contact me ONLY if necessary.
+</ul>
